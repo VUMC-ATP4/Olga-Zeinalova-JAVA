@@ -19,7 +19,7 @@ public class Customer {
         return member;
     }
 
-    public String getMemberType(){
+    public String getMemberType(String premium){
         return memberType;
     }
     public void setMemberType(String memberType){
